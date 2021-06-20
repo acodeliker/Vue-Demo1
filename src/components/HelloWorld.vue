@@ -80,6 +80,9 @@
         </a>
       </li>
     </ul>
+    <h1>
+      <router-link to="demo">跳转至HelloVue</router-link>
+    </h1>
   </div>
 </template>
 
